@@ -86,3 +86,32 @@ main {
 footer {
   margin-top: 10px;
 }
+
+a {
+    color:rgb(182, 182, 182);
+}
+
+
+.carousel {
+  margin-top: .5em;
+  margin-bottom: .5em;
+  }
+ .jumbotron {
+    background-color:rgba(61, 60, 60, 0.726);
+    color:rgb(253, 246, 246);
+  }
+  .card {
+      background-color:rgba(172, 4, 4, 0.705);
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  h5 {
+      color:rgb(253, 246, 246);
+      letter-spacing: 1px;
+  }
+
+  p {
+      color:rgb(253, 246, 246);
+      letter-spacing: .5px;
+  }
